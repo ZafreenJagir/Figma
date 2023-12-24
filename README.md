@@ -37,6 +37,97 @@ Figma
 
 #home page
 
+// SAVEETHA<br/>ENGINEERING COLLEGE
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+//   
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// AUTONOMOUS<br/>
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+//        
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// AFFILIATED TO ANNA UNIVERSITY
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2K23  TECH EVENTS <br/>
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 700;
+ letter-spacing: 0.40px;
+ word-wrap: break-word
+---
+// LOGIN <br/>
+color: #16EEFB;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 700;
+ letter-spacing: 0.40px;
+ word-wrap: break-word
+---
+// Login for event registration<br/>
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.24px;
+ word-wrap: break-word
+---
+// Email Address<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// Password<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// forgot password
+color: white;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// LOGIN
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 640px; height: 960px; left: -183px; top: -263px; position: absolute" src="https://via.placeholder.com/640x960" />
     <div style="width: 250px; height: 100px; left: 101px; top: 26px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">SAVEETHA<br/>ENGINEERING COLLEGE</div>
@@ -60,6 +151,70 @@ Figma
 
 #event page 
 
+// 2K23  TECH EVENTS <br/>
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 700;
+ letter-spacing: 0.40px;
+ word-wrap: break-word
+---
+//     Data Science Bowl<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//  Robotics Challenge
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//     TechTalk Series
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//          CodeJam
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// Mobile App Development<br/><br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//          3D Printing
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// submit<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 650px; height: 1032px; left: -193px; top: -244px; position: absolute" src="https://via.placeholder.com/650x1032" />
     <div style="width: 272px; height: 49px; left: 64px; top: 52px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 700; letter-spacing: 0.40px; word-wrap: break-word">2K23  TECH EVENTS <br/></div>
@@ -81,6 +236,70 @@ Figma
 
 #registration page
 
+// REGISTRATION FORM<br/>
+color: white;
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.44px;
+ word-wrap: break-word
+---
+//               Full Name 
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//       Department
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//           College
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// Registration Number
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//         Mobile Number
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//     Email  Address<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// Register
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 360px; height: 675px; left: 0px; top: -35px; position: absolute" src="https://via.placeholder.com/360x675" />
     <div style="width: 254px; height: 47px; left: 58px; top: 37px; position: absolute; color: white; font-size: 22px; font-family: Inter; font-weight: 400; letter-spacing: 0.44px; word-wrap: break-word">REGISTRATION FORM<br/></div>
@@ -101,6 +320,70 @@ Figma
 </div>
 
 #contact page 
+
+// 2K23  TECH EVENTS <br/>
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 700;
+ letter-spacing: 0.40px;
+ word-wrap: break-word
+---
+//     Data Science Bowl<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//  Robotics Challenge
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//     TechTalk Series
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//          CodeJam
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// Mobile App Development<br/><br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+//          3D Printing
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
+---
+// submit<br/>
+color: black;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ letter-spacing: 0.28px;
+ word-wrap: break-word
 
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 675px; height: 1200px; left: -214px; top: -338px; position: absolute" src="https://via.placeholder.com/675x1200" />
@@ -124,3 +407,4 @@ Figma
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
+                                                                                                                                        
